@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object model="retrieveapp.employee" pk="1">
+        <field name="eno" type="IntegerField">1</field>
+        <field name="ename" type="CharField">hjik</field>
+        <field name="esal" type="FloatField">145622.0</field>
+        <field name="eaddr" type="CharField">vjh</field>
+    </object>
+    <object model="retrieveapp.employee" pk="2">
+        <field name="eno" type="IntegerField">2</field>
+        <field name="ename" type="CharField">jjhv</field>
+        <field name="esal" type="FloatField">64943.0</field>
+        <field name="eaddr" type="CharField">jhjjbkbk</field>
+    </object>
+    <object model="retrieveapp.employee" pk="3">
+        <field name="eno" type="IntegerField">3</field>
+        <field name="ename" type="CharField">jhjgjkb</field>
+        <field name="esal" type="FloatField">496326.0</field>
+        <field name="eaddr" type="CharField">uhjkkb</field>
+    </object>
+    <object model="retrieveapp.employee" pk="4">
+        <field name="eno" type="IntegerField">4</field>
+        <field name="ename" type="CharField">jhhgjkb</field>
+        <field name="esal" type="FloatField">664323.0</field>
+        <field name="eaddr" type="CharField">gfhgjmnb</field>
+    </object>
+    <object model="retrieveapp.employee" pk="5">
+        <field name="eno" type="IntegerField">5</field>
+        <field name="ename" type="CharField">samba</field>
+        <field name="esal" type="FloatField">47896545.0</field>
+        <field name="eaddr" type="CharField">kakjajah</field>
+    </object>
+</django-objects>

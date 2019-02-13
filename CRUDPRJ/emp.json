@@ -1,0 +1,52 @@
+[
+{
+    "model": "retrieveapp.employee",
+    "pk": 1,
+    "fields": {
+        "eno": 1,
+        "ename": "hjik",
+        "esal": 145622.0,
+        "eaddr": "vjh"
+    }
+},
+{
+    "model": "retrieveapp.employee",
+    "pk": 2,
+    "fields": {
+        "eno": 2,
+        "ename": "jjhv",
+        "esal": 64943.0,
+        "eaddr": "jhjjbkbk"
+    }
+},
+{
+    "model": "retrieveapp.employee",
+    "pk": 3,
+    "fields": {
+        "eno": 3,
+        "ename": "jhjgjkb",
+        "esal": 496326.0,
+        "eaddr": "uhjkkb"
+    }
+},
+{
+    "model": "retrieveapp.employee",
+    "pk": 4,
+    "fields": {
+        "eno": 4,
+        "ename": "jhhgjkb",
+        "esal": 664323.0,
+        "eaddr": "gfhgjmnb"
+    }
+},
+{
+    "model": "retrieveapp.employee",
+    "pk": 5,
+    "fields": {
+        "eno": 5,
+        "ename": "samba",
+        "esal": 47896545.0,
+        "eaddr": "kakjajah"
+    }
+}
+]

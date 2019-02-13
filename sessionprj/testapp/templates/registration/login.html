@@ -1,0 +1,16 @@
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>LOGIN TO ACCSS WEB API</h1>
+    <form  method="post">
+      {%csrf_token%}
+      {{form.as_p}}
+      <button type="SUBMIT">LOGIN</button>
+    </form>
+
+  </body>
+</html>
